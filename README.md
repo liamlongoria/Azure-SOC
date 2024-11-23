@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Created a mini Security Operations Center (SOC) by using resources available in Microsoft Azure to detect Indicatiors of Compromise (IOCs) which are sent to a Security Information and Event Manager (SIEM) to overlook potentially malicious activity in the personal lab.
+Created a mini Security Operations Center (SOC) by using resources available in Microsoft Azure to detect Indicators of Compromise (IOCs) which are sent to a Security Information and Event Manager (SIEM) to overlook potentially malicious activity in the personal lab.
 <br />
 
 
